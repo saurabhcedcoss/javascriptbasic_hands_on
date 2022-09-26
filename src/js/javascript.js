@@ -6,3 +6,8 @@ var x = 50;
 var a = 5;
 var b = 10;
 document.getElementById("demo").innerHTML = a + b;
+//Exercise 4. Create a variable called z, assign c + d to it, and display the result in an alert box.
+var c = 5;
+var d = 10;
+var z = x + y;
+alert(z);
