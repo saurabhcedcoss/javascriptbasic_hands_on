@@ -11,3 +11,8 @@ var c = 5;
 var d = 10;
 var z = x + y;
 alert(z);
+/*Exercize 5. On one single line, declare three variables with the following names and values:
+firstName = John
+lastName = Doe
+age = 35*/
+var firstName = "John",  lastName = "Doe",  age = 35;
