@@ -94,10 +94,16 @@
     </script>
     <!-- Exercise 3. Make the function return Hello.-->
     <script>
-            function myFunction() {
-      return "Hello";
+      function myFunction() {
+        return "Hello";
       }
       document.getElementById("demo").innerHTML = myFunction();
+    </script>
+    <!-- Exercise 4. Make the function display Hello in the inner HTML of an element with the ID demo.-->
+    <script>
+      function myFunction() {
+        document.getElementById("demo").innerHTML = "Hello";
+      }
     </script>
   </body>
 </html>
