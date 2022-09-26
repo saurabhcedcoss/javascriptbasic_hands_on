@@ -16,3 +16,5 @@ firstName = John
 lastName = Doe
 age = 35*/
 var firstName = "John",  lastName = "Doe",  age = 35;
+//Exercise 6. Multiply 10 with 5, and alert the result:
+alert(10 * 5);
