@@ -15,6 +15,10 @@ alert(z);
 firstName = John
 lastName = Doe
 age = 35*/
-var firstName = "John",  lastName = "Doe",  age = 35;
+var firstName = "John",
+  lastName = "Doe",
+  age = 35;
 //Exercise 6. Multiply 10 with 5, and alert the result:
 alert(10 * 5);
+//Exercise 7. Divide 10 by 2, and alert the result:
+alert(15 % 9);
